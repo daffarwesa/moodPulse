@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Background color used by the adaptive launcher icon (matches the logo teal). -->
+    <color name="ic_launcher_background">#3F8F8B</color>
+    <!-- Background color of the native splash screen (matches AppColors.background). -->
+    <color name="launch_background">#FCF9F8</color>
+</resources>
